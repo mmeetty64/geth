@@ -1,0 +1,43 @@
+{
+    "alloc": {
+        "0x9072437Ac1512c86fE19256f21136667878B5278":{
+            "balance": "10000000000000000000000"
+        },
+        "0x886f6406AB56f9033D677b28D38Fb55fB76eD4B0":{
+            "balance": "10000000000000000000000"
+        },
+        "0x4a7ca13b3180098d8883C94faEd7D73Fd796a4B1":{
+            "balance": "10000000000000000000000"
+        },
+        "0x6A8c5208f3e1898ed1CBD4c0703Ee2c1B3FE3c2E":{
+            "balance": "10000000000000000000000"
+        },
+        "0xa09089fda764C3e85983eD570dC08Cfd19e607f1":{
+            "balance": "10000000000000000000000"
+        },
+        "0x57F5F21c363dEbCF53db8D3e37447cD93076bf3c":{
+            "balance": "10000000000000000000000"
+        },
+        "0xdA389cE7bC8FE0db16a23eE3B2364E71B803BD1A":{
+            "balance": "10000000000000000000000"
+        },
+        "0xCA14C298Ff4b6348300064b27EbBF663944E1028":{
+            "balance": "10000000000000000000000"
+        }
+    },
+    "config": {
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "byzantiumBlock": 0,
+        "constantinopleBlock": 0,
+        "petersburgBlock": 0,
+        "istanbulBlock": 0,
+        "homesteadBlock": 0,
+        "chainId": 13
+    },
+    "nonce": "0x200",
+    "difficulty": "0x0",
+    "gasLimit": "0x300000000",
+    "gasValue": "0x100"
+}
