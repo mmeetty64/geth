@@ -1,3 +1,5 @@
+geth --datadir "" init genesis.json 
+geth --datadir "" --http -http.api="admin, miner, debug, txpool, personal, eth, web3, net" --http.corsdomain * --port 3030 --nat extip:"192.168.2.251" --networkid 8545  --identity "node1" --allow-insecure-unlock console
 personal.unlockAccount(eth.accounts[0], "123", 0)
 personal.unlockAccount(eth.accounts[1], "123", 0)
 personal.unlockAccount(eth.accounts[2], "123", 0)
